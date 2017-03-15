@@ -10,15 +10,19 @@
   </head>
     <body>
          <form class="form-horizontal">
-          <form id="formulario" autocomplete="off">
+         <legend><b>FORMULÁRIO</b></legend>
         <fieldset>
-          <legend>Formulário</legend>
-       <label>Campo1:</label><input class="campo_1" type="number"><br>
-       <label>Campo2:</label><input class="campo_2" type="number"><br>
-          <input class="btn_submit" type="submit" value="Enviar">
-        </fieldset>
-      </form> 
-
+          <div class="form-group">
+            <label for="valor1" class="col-lg-1 control-label">Valor 1</label>
+       <div class="col-lg-5">
+            <input type="text" class="form-control" name="inputvalor1" id="inputvalor1" placeholder="Digite um número">
+      </div>
+      </div>
+            <label for="valor2" class="col-lg-1 control-label">Valor 2</label>
+      <div class="col-lg-5">
+            <input type="text" class="form-control" name="inputvalor2" id="inputvalor2" placeholder="Digite um número">
+      </div>
+      </div>
 
 
     </body>
