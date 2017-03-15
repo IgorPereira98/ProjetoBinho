@@ -9,7 +9,7 @@
         <link href="bootstrap.min.css" rel="stylesheet">
   </head>
     <body>
-         <form>
+         <form class="form-horizontal">
           <form id="formulario" autocomplete="off">
         <fieldset>
           <legend>Formulário</legend>
@@ -18,6 +18,7 @@
           <input class="btn_submit" type="submit" value="Enviar">
         </fieldset>
       </form> 
+
 
 
     </body>
