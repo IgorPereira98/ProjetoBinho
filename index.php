@@ -1,5 +1,8 @@
-
-
+<?php
+$v1=$_GET['inputvalor1'];
+$v2=$_GET['inputvalor2'];
+$total=$v1+$v2;
+?>
 <!DOCTYPE html>
 <html>
    <head>
