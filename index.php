@@ -14,7 +14,10 @@
         <fieldset>
           <legend>Formulário</legend>
        <label>Campo1:</label><input class="campo_1" type="number"><br>
-   </form>
+       <label>Campo2:</label><input class="campo_2" type="number"><br>
+          <input class="btn_submit" type="submit" value="Enviar">
+        </fieldset>
+      </form> 
 
 
     </body>
