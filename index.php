@@ -23,6 +23,14 @@
             <input type="text" class="form-control" name="inputvalor2" id="inputvalor2" placeholder="Digite um número">
       </div>
       </div>
+        <div class="form-group">
+      <div class="col-lg-4 col-lg-offset-1">
+        <button type="submit" class="btn btn-primary">ENVIAR</button>
+      </div>
+    </div>
+      
+    </fieldset>
+    </form>
 
 
     </body>
