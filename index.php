@@ -26,6 +26,12 @@ $total=$v1+$v2;
             <input type="text" class="form-control" name="inputvalor2" id="inputvalor2" placeholder="Digite um número">
       </div>
       </div>
+           <div class="form-group">
+      <label for="inputresult" class="col-lg-1 control-label">Resultado</label> <?=$total;?>
+      <div class="col-lg-5">
+      </div>
+      </div>
+      
         <div class="form-group">
       <div class="col-lg-4 col-lg-offset-1">
         <button type="submit" class="btn btn-primary">ENVIAR</button>
